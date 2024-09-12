@@ -1,4 +1,4 @@
 {
-	"version": "2.0.0",
-	"changelog": "Resmon Optimize, Custom Script Option, Double Kong Movement with new Logic!"
+	"version": "2.1.0",
+	"changelog": "Rewrited to Lua, New Improvements, New Score System, New Parkour Games, New Movements, Better Performance"
 }
