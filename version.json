@@ -1,4 +1,4 @@
 {
-	"version": "2.1.0",
-	"changelog": "Rewrited to Lua, New Improvements, New Score System, New Parkour Games, New Movements, Better Performance"
+	"version": "2.1.1",
+	"changelog": "Minor Bugs Fixed, Better Performance, More Config Options, NPCs Fixed"
 }
